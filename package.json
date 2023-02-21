@@ -1,0 +1,20 @@
+{
+  "name": "g-nodejs-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "interview.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.25.0",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "@types/node": "^15.0.2",
+    "node-fetch": "^2.6.1"
+  }
+}
